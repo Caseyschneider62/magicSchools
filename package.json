@@ -16,7 +16,5 @@
     "url": "https://github.com/Caseyschneider62/magicSchools/issues"
   },
   "homepage": "https://github.com/Caseyschneider62/magicSchools#readme",
-  "dependencies": {
-    "mysql": "^2.15.0"
-  }
+  "dependencies": {}
 }
