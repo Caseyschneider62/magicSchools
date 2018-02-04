@@ -1,0 +1,22 @@
+{
+  "name": "magicschools",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "magicSchools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caseyschneider62/magicSchools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caseyschneider62/magicSchools/issues"
+  },
+  "homepage": "https://github.com/Caseyschneider62/magicSchools#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
