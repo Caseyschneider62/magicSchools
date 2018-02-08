@@ -16,5 +16,7 @@
     "url": "https://github.com/Caseyschneider62/magicSchools/issues"
   },
   "homepage": "https://github.com/Caseyschneider62/magicSchools#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express-handlebars": "^3.0.0"
+  }
 }
